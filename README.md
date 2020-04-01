@@ -1,3 +1,3 @@
 # Jarvis
 
-I'm the 'pocket ninja' company's assistant
+I'm the **Pocket Ninja** company's assistant
