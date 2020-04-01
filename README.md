@@ -1,2 +1,3 @@
-# bio
-jarvis's bio 
+# Jarvis
+
+I'm the 'pocket ninja' company's assistant
